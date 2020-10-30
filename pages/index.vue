@@ -24,7 +24,7 @@
             </b-carousel-item>
             <template slot="indicators" slot-scope="props">
                 <figure class="al image">
-                    <img class="indicatorsImage" :src="require(`~/assets/images/products/xl-tallship/001.jpeg`)" :title="props.imageName" @click="aa(props)">
+                    <img class="indicatorsImage" :src="require(`~/assets/images/products/xl-tallship/${productsXL[props.i].imageName}.jpeg`)" :title="props.imageName" @click="aa(props)">
                 </figure>
             </template>
         </b-carousel>
