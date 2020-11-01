@@ -1,7 +1,7 @@
 <template>
     <div>
         <figure class="image is-128x128 logo">
-            <img src="~/assets/images/logo-fengshui-789.png" alt="ร้าน FengShui789">
+            <img src="~/assets/images/logo-fengshui-789.jpg" alt="ร้าน FengShui789">
         </figure>
         <div class="shopname">
             <h1 class="title is-3">
