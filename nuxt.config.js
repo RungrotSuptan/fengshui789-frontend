@@ -4,6 +4,9 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
+    htmlAttrs: {
+      lang: 'th'
+    },
     title: 'FengShui789 - ร้านขายของแต่งร้าน แต่งโต๊ะทำงาน แต่งออฟฟิต แต่งบ้าน แต่งคอนโด ของขวัญแต่งบ้าน ของขวัญมงคล ดีไซน์สมัยใหม่ที่เป็นมงคล',
     description: 'จำหน่ายของแต่งบ้านดีไซน์ทันสมัยและเป็นมงคลทุกชิ้น',
     meta: [
